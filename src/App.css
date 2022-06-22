@@ -1,3 +1,14 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+}
+img{
+  size: 10%;
+}
 .App {
   text-align: center;
 }
